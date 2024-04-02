@@ -1,0 +1,31 @@
+* {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+    text-decoration: underline;
+}
+
+.container {
+    text-align: center;
+    font-size: 25px;
+}
+
+a {
+    text-decoration: none;
+    color: chocolate;
+    padding: 20px;
+}
+
+a:hover {
+    background-color: rgb(246, 213, 189);
+}
+
+/* Home Link Style */
+
